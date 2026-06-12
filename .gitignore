@@ -62,3 +62,7 @@ flatbuild
 
 # Snap
 *.snap
+
+# Build
+dist/
+build/
